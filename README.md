@@ -1,7 +1,7 @@
 
 # Clio Bate
 
-![My lovely cat loon](https://github.com/cvbate/resume/blob/main/desktop/loon.jpg)
+![My lovely cat loon](loon.jpg)
 
 ## Education
 
@@ -11,5 +11,5 @@
 
 ## Research Interests
 
-Agriculture 
+Agriculture  
 Land Change
