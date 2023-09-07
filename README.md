@@ -1,7 +1,7 @@
 
 # Clio Bate
 
-![My lovely cat loon](loon.jpg)
+![My lovely cat Loon](loon.jpg "My lovely cat Loon")
 
 ## Education
 
